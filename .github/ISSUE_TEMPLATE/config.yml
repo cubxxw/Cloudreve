@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
-  - name: "\U0001F4F1 iOS/iPadOS related issues"
+  - name: "\U0001F4F1 iOS App related issues"
     url: "hhttps://github.com/cloudreve/ios-feedback/issues/new"
     about: Report issues related to the official iOS/iPadOS client.
   - name: "\U0001F5A5 Desktop client related issues"

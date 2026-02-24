@@ -54,7 +54,7 @@ body:
     attributes:
       label: Browser and operating system
       description: What browser and operating system are you using?
-      placeholder: Example: Chrome 123.0.0 on macOS 14.0.0
+      placeholder: E.g. Chrome 123.0.0 on macOS 14.0.0
     validations:
       required: false
 
