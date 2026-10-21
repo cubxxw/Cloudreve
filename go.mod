@@ -44,7 +44,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/meilisearch/meilisearch-go v0.36.0
 	github.com/mholt/archives v0.1.3
-	github.com/mojocn/base64Captcha v0.0.0-20190801020520-752b1cd608b2
+	github.com/mojocn/base64Captcha v1.3.6
 	github.com/pquerna/otp v1.2.0
 	github.com/qiniu/go-sdk/v7 v7.19.0
 	github.com/rafaeljusto/redigomock v0.0.0-20191117212112-00b2509252a1
